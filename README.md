@@ -11,3 +11,5 @@ ipython3
 build-essential
 python-dev
 python3-dev
+
+https://textminingonline.com/getting-started-with-openai-gpt-2
